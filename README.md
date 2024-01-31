@@ -1,4 +1,4 @@
-A terminal based user interface application made specially for the working and management of our Hostel's Kitchen and Food Management departement.
+A terminal based user interface application made specially for the working and management of our Hostel's Kitchen and Food Management department.
 
 Utilities provided:
 Recording and generating report for Kitchen Ingredients and Utensils (Kitchen Inventory).
