@@ -1,5 +1,7 @@
 A terminal based user interface application made specially for the working and management of our Hostel's Kitchen and Food Management department.
 
+In collaboration with Brother Vignesh Sai Sankalp Sham. 
+
 Utilities provided:
 Recording and generating report for Kitchen Ingredients and Utensils (Kitchen Inventory).
 Recording the details of Sick Students and generating special menu for them.
